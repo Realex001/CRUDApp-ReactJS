@@ -8,6 +8,10 @@
 <li>Код проекта на GitHub: </li>
 
 <h1>Технологии:</h1>
-<p>HTML5, CSS3, ReactJS, </p>
+<p>HTML5, CSS3, ReactJS, Semantic UI React</p>
 
 <h1>Особенности:</h1>
+<p>Проект выполнен по технологии SPA (использовался react-router-dom v6). Для выполнения запросов на сервис mockapi используюется JavaScript библиотека Axios.
+В качестве веб-хранилища используется localStorage. 
+  
+</p>
